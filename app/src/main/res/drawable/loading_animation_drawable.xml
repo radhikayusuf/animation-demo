@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:duration="30"
+          android:drawable="@drawable/walk0"/>
+
+    <item android:duration="30"
+          android:drawable="@drawable/walk1"/>
+
+    <item android:duration="30"
+          android:drawable="@drawable/walk2"/>
+
+    <item android:duration="30"
+          android:drawable="@drawable/walk3"/>
+
+    <item android:duration="30"
+          android:drawable="@drawable/walk4"/>
+
+    <item android:duration="30"
+          android:drawable="@drawable/walk5"/>
+
+    <item android:duration="30"
+          android:drawable="@drawable/walk6"/>
+
+    <item android:duration="30"
+          android:drawable="@drawable/walk7"/>
+
+    <item android:duration="30"
+          android:drawable="@drawable/walk8"/>
+
+    <item android:duration="30"
+          android:drawable="@drawable/walk9"/>
+
+    <item android:duration="30"
+          android:drawable="@drawable/walk10"/>
+
+    <item android:duration="30"
+          android:drawable="@drawable/walk11"/>
+
+    <item android:duration="30"
+          android:drawable="@drawable/walk12"/>
+
+    <item android:duration="30"
+          android:drawable="@drawable/walk13"/>
+
+    <item android:duration="30"
+          android:drawable="@drawable/walk14"/>
+
+    <item android:duration="30"
+          android:drawable="@drawable/walk15"/>
+
+    <item android:duration="30"
+          android:drawable="@drawable/walk16"/>
+
+    <item android:duration="30"
+          android:drawable="@drawable/walk17"/>
+
+    <item android:duration="30"
+          android:drawable="@drawable/walk18"/>
+
+    <item android:duration="30"
+          android:drawable="@drawable/walk19"/>
+
+    <item android:duration="30"
+          android:drawable="@drawable/walk20"/>
+
+    <item android:duration="30"
+          android:drawable="@drawable/walk21"/>
+
+    <item android:duration="30"
+          android:drawable="@drawable/walk22"/>
+
+    <item android:duration="30"
+          android:drawable="@drawable/walk23"/>
+
+    <item android:duration="30"
+          android:drawable="@drawable/walk24"/>
+
+    <item android:duration="30"
+          android:drawable="@drawable/walk25"/>
+
+    <item android:duration="30"
+          android:drawable="@drawable/walk26"/>
+
+    <item android:duration="30"
+          android:drawable="@drawable/walk27"/>
+
+    <item android:duration="30"
+          android:drawable="@drawable/walk28"/>
+
+    <item android:duration="30"
+          android:drawable="@drawable/walk29"/>
+
+    <item android:duration="30"
+          android:drawable="@drawable/walk30"/>
+
+
+</animation-list>

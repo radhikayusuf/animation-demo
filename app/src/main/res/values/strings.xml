@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Animation Demo</string>
+    <string name="path_cross">M10,6L8.59,7.41 13.17,12l-4.58,4.59L10,18l6,-6z</string>
+    <string name="path_check">M19.6,9 L10.4,18.4 M6.9,13.5 L11,17.6</string>
+    <string name="text_please_wait">Please wait....</string>
+    <string name="text_dummy">Spider-Man is a fictional superhero created by writer-editor Stan Lee and writer-artist
+        Steve Ditko. He first appeared in the anthology comic book Amazing Fantasy #15 (August 1962) in the Silver Age
+        of Comic Books. He appears in American comic books published by Marvel Comics, as well as in a number of movies,
+        television shows, and video game adaptations set in the Marvel Universe. In the stories, Spider-Man is the alias
+        of Peter Parker, an orphan raised by his Aunt May and Uncle Ben in New York City after his parents Richard and
+        Mary Parker were killed in a plane crash. Lee and Ditko had the character deal with the struggles of adolescence
+        and financial issues, and accompanied him with many supporting characters, such as J. Jonah Jameson, Flash
+        Thompson, Harry Osborn, romantic interests Gwen Stacy and Mary Jane Watson, and foes such as Doctor Octopus,
+        Green Goblin and Venom. His origin story has him acquiring spider-related abilities after a bite from a
+        radioactive spider; these include clinging to surfaces, shooting spider-webs from wrist-mounted devices, and
+        detecting danger with his spider-sense.
+
+        Spider-Man is a fictional superhero created by writer-editor Stan Lee and writer-artist
+        Steve Ditko. He first appeared in the anthology comic book Amazing Fantasy #15 (August 1962) in the Silver Age
+        of Comic Books. He appears in American comic books published by Marvel Comics, as well as in a number of movies,
+        television shows, and video game adaptations set in the Marvel Universe. In the stories, Spider-Man is the alias
+        of Peter Parker, an orphan raised by his Aunt May and Uncle Ben in New York City after his parents Richard and
+        Mary Parker were killed in a plane crash. Lee and Ditko had the character deal with the struggles of adolescence
+        and financial issues, and accompanied him with many supporting characters, such as J. Jonah Jameson, Flash
+        Thompson, Harry Osborn, romantic interests Gwen Stacy and Mary Jane Watson, and foes such as Doctor Octopus,
+        Green Goblin and Venom. His origin story has him acquiring spider-related abilities after a bite from a
+        radioactive spider; these include clinging to surfaces, shooting spider-webs from wrist-mounted devices, and
+        detecting danger with his spider-sense.
+
+        Spider-Man is a fictional superhero created by writer-editor Stan Lee and writer-artist
+        Steve Ditko. He first appeared in the anthology comic book Amazing Fantasy #15 (August 1962) in the Silver Age
+        of Comic Books. He appears in American comic books published by Marvel Comics, as well as in a number of movies,
+        television shows, and video game adaptations set in the Marvel Universe. In the stories, Spider-Man is the alias
+        of Peter Parker, an orphan raised by his Aunt May and Uncle Ben in New York City after his parents Richard and
+        Mary Parker were killed in a plane crash. Lee and Ditko had the character deal with the struggles of adolescence
+        and financial issues, and accompanied him with many supporting characters, such as J. Jonah Jameson, Flash
+        Thompson, Harry Osborn, romantic interests Gwen Stacy and Mary Jane Watson, and foes such as Doctor Octopus,
+        Green Goblin and Venom. His origin story has him acquiring spider-related abilities after a bite from a
+        radioactive spider; these include clinging to surfaces, shooting spider-webs from wrist-mounted devices, and
+        detecting danger with his spider-sense.
+
+    </string>
+    <string name="text_transform">TRANSFORM</string>
+    <string name="text_object_animator">Object Animator</string>
+    <string name="text_animation_drawable">Animation Drawable</string>
+    <string name="text_animation_vector_drawable">Animation Vector Drawable</string>
+    <string name="text_motionlayout">MotionLayout</string>
+</resources>
